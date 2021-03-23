@@ -3,7 +3,7 @@ package haversine_test
 import (
 	"testing"
 
-	"github.com/umahmood/haversine"
+	"github.com/danvixent/haversine"
 )
 
 var tests = []struct {
